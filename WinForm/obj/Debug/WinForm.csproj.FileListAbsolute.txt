@@ -1,0 +1,10 @@
+F:\study\csharp\Tank_Battle\WinForm\bin\Debug\WinForm.exe.config
+F:\study\csharp\Tank_Battle\WinForm\bin\Debug\WinForm.exe
+F:\study\csharp\Tank_Battle\WinForm\bin\Debug\WinForm.pdb
+F:\study\csharp\Tank_Battle\WinForm\obj\Debug\WinForm.csproj.AssemblyReference.cache
+F:\study\csharp\Tank_Battle\WinForm\obj\Debug\WinForm.Form1.resources
+F:\study\csharp\Tank_Battle\WinForm\obj\Debug\WinForm.Properties.Resources.resources
+F:\study\csharp\Tank_Battle\WinForm\obj\Debug\WinForm.csproj.GenerateResource.cache
+F:\study\csharp\Tank_Battle\WinForm\obj\Debug\WinForm.csproj.CoreCompileInputs.cache
+F:\study\csharp\Tank_Battle\WinForm\obj\Debug\WinForm.exe
+F:\study\csharp\Tank_Battle\WinForm\obj\Debug\WinForm.pdb
